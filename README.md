@@ -5,7 +5,7 @@ The project was divided into three phases:
 <li>Flutter Web for data entry</li>
 <li>Unity Webgl </li>
 
-The first phase was done in 2 weeks. The main focus was to generate 3 layouts(Corridor,Square,Polygon) "The polygon was a bit challenging but eventually the equation was made it was L=2R/(TAN(2*PI/(2*360)))" and add some functionality for example: when the user press the photo he should be directed towards it and if he wants to unfocus he can press any area far from the photo. A corridor layout can be shown in the following video, Note that only 2 images were on the firebase storage and also zoom is a bit laggy
+The first phase was done in 2 weeks. The main focus was to generate 3 layouts(Corridor,Square,Polygon) "The polygon was a bit challenging but eventually the equation was made it was L=2R/(TAN(2 * PI/(2 * n)))" and add some functionality for example: when the user press the photo he should be directed towards it and if he wants to unfocus he can press any area far from the photo. A corridor layout can be shown in the following video, Note that only 2 images were on the firebase storage and also zoom is a bit laggy
 
 https://user-images.githubusercontent.com/55148866/185560858-d9200afe-1072-4d96-9e40-ce9d560328fa.mp4
 
